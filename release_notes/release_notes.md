@@ -1,32 +1,12 @@
 # Release Notes
 
-## [Version X.X.X] - YYYY-MM-DD
 
-### Added
-- List of new features or functionalities added in this release.
-
-### Changed
-- List of changes or updates made to existing features.
-
-### Deprecated
-- List of functionalities that have been deprecated and will be removed in future releases.
-
-### Removed
-- List of removed features or functionalities.
-
-### Fixed
-- List of bug fixes or issues resolved in this release.
-
-### Security
-- List of security updates or vulnerabilities patched in this release.
-
-### Known Issues
-- List of known issues or limitations in this release.
-
-### Other
-- Any other noteworthy information about this release.
-
-## [Version X.X.X] - YYYY-MM-DD 
-- SemVer (Major, Minor, Patch)
+Version Number: The version number of the software release.
+Date: The date when the release was made available.
+Summary of Changes: A brief overview of the major changes introduced in the release.
+Detailed Changes: Detailed descriptions of new features, enhancements, bug fixes, and other changes made in the release.
+Known Issues: Any known issues or limitations in the release that users should be aware of.
+Upgrade Instructions: Instructions for upgrading to the new version, if applicable.
+Links: Links to relevant documentation, support resources, or release artifacts.
 
 

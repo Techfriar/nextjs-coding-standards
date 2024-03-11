@@ -1,14 +1,4 @@
-## Handling HTTP Requests in Next.js
-
-Next.js provides various options for making HTTP requests to fetch data for your application. You can use both client-side and server-side data fetching methods depending on your requirements.
-
-### Client-Side Data Fetching
-
-#### Fetch API
-
-You can use the Fetch API or Axios for making client-side HTTP requests directly from your React components.
-
-
+## Handling Requests
 
 ```javascript
 const createContacts = () => {
