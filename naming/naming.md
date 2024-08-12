@@ -6,7 +6,7 @@
 | Page                | lowercase-with-dashes        | `index.js`, `about-us.js`        |
 | Dynamic Route       | inside-square-brackets       | `[id].js`, `[slug].js`           |
 | Component           | PascalCase                   | `Header.js`, `LoginForm.js`      |
-| Folder              | camelCase                    | `serviceRequest`, `contactAddress`|
+| Folder              | PascalCase                   | `ServiceRequest`, `ContactAddress`|
 | Utility Function    | camelCase                    | `formatDate.js`, `apiUtils.js`   |
 | Public Asset        | lowercase-with-dashes        | `logo-new.png`, `favicon.ico`    |
 | Service             | camelCase                    | `useNotificationService`,        |
